@@ -19,11 +19,13 @@ _I do all sorts of things in development_
 
 ---
 
-#### Technology stack
+### Technology stack
 - 🐍 Python3
 - ⚛️ React (a little bit)
 
-#### Links to social networks
+---
+
+### Links to social networks
 - TG: [@k0te1ch](https://t.me/k0te1ch)
 - VK: [@k0te1ch](https://vk.com/k0te1ch)
 
