@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi, I'm @k0te1ch  
+### 👋 Hi, I'm [@k0te1ch](https://github.com/k0te1ch)  
 
 _I do all sorts of things in development_
 
