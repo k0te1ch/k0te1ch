@@ -23,7 +23,7 @@ _I do all sorts of things in development_
 - 🐍 Python3
 - ⚛️ React (a little bit)
 - 🚬 C++
-- ☕ Java (
+- ☕ Java
 
 ---
 
