@@ -22,13 +22,16 @@ _I do all sorts of things in development_
 ### Technology stack
 - 🐍 Python3
 - ⚛️ React (a little bit)
-- ☕ Java
 - 🚬 C++
+- ☕ Java (
 
 ---
 
-### Links to messagers/social networks
+### Links
+Devs links:
+- LeetCode: [k0te1ch](https://leetcode.com/k0te1ch)
+
+Social links:
 - TG: [@k0te1ch](https://t.me/k0te1ch)
 - VK: [@k0te1ch](https://vk.com/k0te1ch)
-
 ---
