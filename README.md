@@ -13,25 +13,81 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi, I'm [@k0te1ch](https://github.com/k0te1ch)  
+<div align="center">
 
-_I do all sorts of things in development_
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+Engineer;System+Designer;Building+things+that+scale)](https://git.io/typing-svg)
 
----
+**I design and build backend systems focused on scalability and real-world impact**
 
-### Technology stack
-- 🐍 Python3
-- ⚛️ React (a little bit)
-- 🚬 C++
-- ☕ Java
+_Architecture · Performance · Monetization_
+
+</div>
 
 ---
 
-### Links
-Devs links:
-- LeetCode: [k0te1ch](https://leetcode.com/k0te1ch)
+## 🧬 Stack
 
-Social links:
-- TG: [@k0te1ch](https://t.me/k0te1ch)
-- VK: [@k0te1ch](https://vk.com/k0te1ch)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge&logo=python&logoColor=6366F1)
+![C++](https://img.shields.io/badge/C++-0f0f0f?style=for-the-badge&logo=c%2B%2B&logoColor=6366F1)
+![Java](https://img.shields.io/badge/Java-0f0f0f?style=for-the-badge&logo=openjdk&logoColor=6366F1)
+![Vue](https://img.shields.io/badge/Vue.js-0f0f0f?style=for-the-badge&logo=vuedotjs&logoColor=6366F1)
+![React](https://img.shields.io/badge/React-0f0f0f?style=for-the-badge&logo=react&logoColor=6366F1)
+
+</div>
+
 ---
+
+## 🚀 Projects
+
+| Project | What it is | Focus |
+|---|---|---|
+| **RabbitPixel** | Game system — core mechanics + backend logic | architecture & scalability |
+| **Bot Platform** | Telegram bots ecosystem | automation & monetization |
+| **Experimental builds** | Backend & system experiments | performance & design |
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=k0te1ch&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=6366F1&icon_color=6366F1&text_color=ffffff&rank_icon=github" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0te1ch&layout=compact&hide_border=true&bg_color=0f0f0f&title_color=6366F1&text_color=ffffff&langs_count=6" height="160"/>
+
+[![LeetCode](https://leetcard.jacoblin.cool/k0te1ch?theme=dark&font=JetBrains+Mono&border=0&radius=8)](https://leetcode.com/k0te1ch)
+
+</div>
+
+---
+
+## 🤝 Open to
+```text
+✓  Freelance projects with real scope
+✓  Serious collaborations & product teams
+✓  Anything with system design challenges
+```
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@k0te1ch-6366F1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k0te1ch)
+[![VK](https://img.shields.io/badge/VK-@k0te1ch-6366F1?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/k0te1ch)
+[![LeetCode](https://img.shields.io/badge/LeetCode-k0te1ch-6366F1?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/k0te1ch)
+
+</div>
+
+## 🧠 Engineering Focus
+
+```text
+→ backend architecture & APIs
+→ performance & optimization (C++ / Python)
+→ system design & scalability
+→ building monetizable products
+```
+
+---
+
+<div align="center">
+<sub>build → validate → scale → monetize</sub>
+</div>
