@@ -53,9 +53,6 @@ _Architecture · Performance · Monetization_
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=k0te1ch&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=6366F1&icon_color=6366F1&text_color=ffffff&rank_icon=github" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0te1ch&layout=compact&hide_border=true&bg_color=0f0f0f&title_color=6366F1&text_color=ffffff&langs_count=6" height="160"/>
-
 [![LeetCode](https://leetcard.jacoblin.cool/k0te1ch?theme=dark&font=JetBrains+Mono&border=0&radius=8)](https://leetcode.com/k0te1ch)
 
 </div>
