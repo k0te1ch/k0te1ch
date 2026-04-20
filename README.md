@@ -34,6 +34,7 @@ _Architecture · Performance · Monetization_
 ![Java](https://img.shields.io/badge/Java-0f0f0f?style=for-the-badge&logo=openjdk&logoColor=6366F1)
 ![Vue](https://img.shields.io/badge/Vue.js-0f0f0f?style=for-the-badge&logo=vuedotjs&logoColor=6366F1)
 ![React](https://img.shields.io/badge/React-0f0f0f?style=for-the-badge&logo=react&logoColor=6366F1)
+![Flutter](https://img.shields.io/badge/Flutter-0f0f0f?style=for-the-badge&logo=flutter&logoColor=6366F1)
 
 </div>
 
