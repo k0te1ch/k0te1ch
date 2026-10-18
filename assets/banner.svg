@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="k0te1ch: Backend Engineer and System Designer">
+  <rect width="880" height="300" rx="12" fill="#11111b" stroke="#2a2a44"/>
+  <rect width="880" height="40" rx="12" fill="#181826"/>
+  <rect y="28" width="880" height="12" fill="#181826"/>
+  <line x1="0" y1="40" x2="880" y2="40" stroke="#2a2a44"/>
+  <circle cx="24" cy="20" r="6" fill="#3a3a55"/>
+  <circle cx="44" cy="20" r="6" fill="#3a3a55"/>
+  <circle cx="64" cy="20" r="6" fill="#6366F1"/>
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="16">
+    <text x="88" y="25" fill="#8b8ba3" font-size="12">k0te1ch@github: ~</text>
+    <text x="32" y="86" fill="#6366F1">$</text><text x="52" y="86" fill="#d4d4e0">whoami</text>
+    <text x="32" y="136" fill="#f4f4fb" font-size="34" font-weight="700">Backend Engineer &amp; System Designer</text>
+    <text x="32" y="172" fill="#a8a8bd">I design and build backend systems focused on</text>
+    <text x="32" y="196" fill="#a8a8bd">scalability and real-world impact.</text>
+    <text x="32" y="246" fill="#6366F1">$</text><text x="52" y="246" fill="#d4d4e0">cat focus.txt</text>
+    <text x="32" y="272" fill="#a8a8bd">Architecture · Performance · Monetization</text>
+    <rect x="392" y="258" width="9" height="16" fill="#f4f4fb">
+      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

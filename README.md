@@ -1,81 +1,41 @@
-<!--
-**k0te1ch/k0te1ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+Engineer;System+Designer;Building+things+that+scale)](https://git.io/typing-svg)
-
-**I design and build backend systems focused on scalability and real-world impact**
-
-_Architecture · Performance · Monetization_
+<img src="assets/banner.svg" alt="k0te1ch: Backend Engineer and System Designer" width="880">
 
 </div>
 
----
+## 01 · About
 
-## 🧬 Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge&logo=python&logoColor=6366F1)
-![C++](https://img.shields.io/badge/C++-0f0f0f?style=for-the-badge&logo=c%2B%2B&logoColor=6366F1)
-![Java](https://img.shields.io/badge/Java-0f0f0f?style=for-the-badge&logo=openjdk&logoColor=6366F1)
-![Vue](https://img.shields.io/badge/Vue.js-0f0f0f?style=for-the-badge&logo=vuedotjs&logoColor=6366F1)
-![React](https://img.shields.io/badge/React-0f0f0f?style=for-the-badge&logo=react&logoColor=6366F1)
-![Flutter](https://img.shields.io/badge/Flutter-0f0f0f?style=for-the-badge&logo=flutter&logoColor=6366F1)
-
-</div>
-
----
-
-## 🚀 Projects
-
-| Project | What it is | Focus |
-|---|---|---|
-| **RabbitPixel** | Game system — core mechanics + backend logic | architecture & scalability |
-| **Bot Platform** | Telegram bots ecosystem | automation & monetization |
-| **Experimental builds** | Backend & system experiments | performance & design |
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-[![LeetCode](https://leetcard.jacoblin.cool/k0te1ch?theme=dark&font=JetBrains+Mono&border=0&radius=8)](https://leetcode.com/k0te1ch)
-
-</div>
-
----
-
-## 🤝 Open to
 ```text
-✓  Freelance projects with real scope
-✓  Serious collaborations & product teams
-✓  Anything with system design challenges
+$ cat about.txt
+→ shipping code on GitHub since 2019, 20+ public repositories
+→ PodBoxBot: a Telegram bot with 200+ commits and 12 releases
+→ native C++ tools: powerpeek is one 4 MB exe, no installer, no telemetry
+→ I take a product from idea to a working release: architecture, backend, bot
 ```
 
+## 02 · Stack
+
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@k0te1ch-6366F1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k0te1ch)
-[![VK](https://img.shields.io/badge/VK-@k0te1ch-6366F1?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/k0te1ch)
-[![LeetCode](https://img.shields.io/badge/LeetCode-k0te1ch-6366F1?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/k0te1ch)
+![Python](https://img.shields.io/badge/Python-0b0b12?style=for-the-badge&logo=python&logoColor=6366F1)
+![C++](https://img.shields.io/badge/C++-0b0b12?style=for-the-badge&logo=c%2B%2B&logoColor=6366F1)
+![Java](https://img.shields.io/badge/Java-0b0b12?style=for-the-badge&logo=openjdk&logoColor=6366F1)
+![Flutter](https://img.shields.io/badge/Flutter-0b0b12?style=for-the-badge&logo=flutter&logoColor=6366F1)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-0b0b12?style=for-the-badge&logo=telegram&logoColor=6366F1)
 
 </div>
 
-## 🧠 Engineering Focus
+## 03 · Projects
+
+| Project | What it is | Activity |
+|---|---|---|
+| [**PodBoxBot**](https://github.com/k0te1ch/PodBoxBot) | Telegram bot (Python) | ![release](https://img.shields.io/github/v/release/k0te1ch/PodBoxBot?style=flat-square&color=6366F1&labelColor=0b0b12) ![commits](https://img.shields.io/github/commit-activity/t/k0te1ch/PodBoxBot?style=flat-square&color=6366F1&labelColor=0b0b12) |
+| [**Timetable-bot**](https://github.com/k0te1ch/Timetable-bot) | Class schedule and notifications for VSU students (Python) | ![commits](https://img.shields.io/github/commit-activity/t/k0te1ch/Timetable-bot?style=flat-square&color=6366F1&labelColor=0b0b12) |
+| [**powerpeek**](https://github.com/k0te1ch/powerpeek) | Device battery in the Windows tray: live icon, notifications, charge history (C++) | ![commits](https://img.shields.io/github/commit-activity/t/k0te1ch/powerpeek?style=flat-square&color=6366F1&labelColor=0b0b12) |
+| [**DialogEngine**](https://github.com/k0te1ch/DialogEngine) | Lightweight dialog engine for form-driven Telegram bots (Python) | ![release](https://img.shields.io/github/v/release/k0te1ch/DialogEngine?style=flat-square&color=6366F1&labelColor=0b0b12) |
+
+## 04 · Engineering focus
 
 ```text
 → backend architecture & APIs
@@ -84,8 +44,13 @@ _Architecture · Performance · Monetization_
 → building monetizable products
 ```
 
----
-
 <div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@k0te1ch-6366F1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k0te1ch)
+[![VK](https://img.shields.io/badge/VK-@k0te1ch-6366F1?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/k0te1ch)
+
+<br>
+
 <sub>build → validate → scale → monetize</sub>
+
 </div>
