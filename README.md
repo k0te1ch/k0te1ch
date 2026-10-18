@@ -28,12 +28,22 @@ $ cat about.txt
 
 ## 03 · Projects
 
-| Project | What it is | Activity |
-|---|---|---|
-| [**PodBoxBot**](https://github.com/k0te1ch/PodBoxBot) | Telegram bot (Python) | ![release](https://img.shields.io/github/v/release/k0te1ch/PodBoxBot?style=flat-square&color=6366F1&labelColor=0b0b12) ![commits](https://img.shields.io/github/commit-activity/t/k0te1ch/PodBoxBot?style=flat-square&color=6366F1&labelColor=0b0b12) |
-| [**Timetable-bot**](https://github.com/k0te1ch/Timetable-bot) | Class schedule and notifications for VSU students (Python) | ![commits](https://img.shields.io/github/commit-activity/t/k0te1ch/Timetable-bot?style=flat-square&color=6366F1&labelColor=0b0b12) |
-| [**powerpeek**](https://github.com/k0te1ch/powerpeek) | Device battery in the Windows tray: live icon, notifications, charge history (C++) | ![commits](https://img.shields.io/github/commit-activity/t/k0te1ch/powerpeek?style=flat-square&color=6366F1&labelColor=0b0b12) |
-| [**DialogEngine**](https://github.com/k0te1ch/DialogEngine) | Lightweight dialog engine for form-driven Telegram bots (Python) | ![release](https://img.shields.io/github/v/release/k0te1ch/DialogEngine?style=flat-square&color=6366F1&labelColor=0b0b12) |
+<div align="center">
+
+<img src="assets/projects.svg" alt="Featured projects: PodBoxBot, Timetable-bot, powerpeek, DialogEngine" width="880">
+
+<sub>
+<a href="https://github.com/k0te1ch/PodBoxBot">PodBoxBot</a> ·
+<a href="https://github.com/k0te1ch/Timetable-bot">Timetable-bot</a> ·
+<a href="https://github.com/k0te1ch/powerpeek">powerpeek</a> ·
+<a href="https://github.com/k0te1ch/DialogEngine">DialogEngine</a>
+</sub>
+
+<br><br>
+
+<img src="assets/languages.svg" alt="Languages across public repositories" width="880">
+
+</div>
 
 ## 04 · Engineering focus
 
