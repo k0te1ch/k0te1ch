@@ -12,7 +12,7 @@
 ```text
 $ cat about.txt
 → shipping code on GitHub since 2019, 20+ public repositories
-→ PodBoxBot: a Telegram bot with 200+ commits and 12 releases
+→ PodBoxBot: Kafka microservices that publish podcast episodes for a real team, 12 releases, Grafana dashboards
 → native C++ tools: powerpeek is one 4 MB exe, no installer, no telemetry
 → I take a product from idea to a working release: architecture, backend, bot
 ```

@@ -15,7 +15,7 @@ from pathlib import Path
 LOGIN = "k0te1ch"
 FEATURED = ["PodBoxBot", "Timetable-bot", "powerpeek", "DialogEngine"]
 FALLBACK_DESC = {
-    "PodBoxBot": "Telegram bot in Python.",
+    "PodBoxBot": "Telegram bot that automates podcast episode publishing. Kafka microservices.",
     "Timetable-bot": "Class schedule and notifications for Voronezh State University.",
     "powerpeek": "Device battery in the Windows tray. One 4 MB exe, no installer, no telemetry.",
     "DialogEngine": "Lightweight dialog engine for form-driven Telegram bots.",
