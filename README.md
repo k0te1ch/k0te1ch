@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="k0te1ch: Backend Engineer and System Designer" width="880">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-dark.svg" alt="k0te1ch: Backend Engineer and System Designer" width="880">
+</picture>
 
 </div>
 
@@ -30,7 +33,10 @@ $ cat about.txt
 
 <div align="center">
 
-<img src="assets/projects.svg" alt="Featured projects: PodBoxBot, Timetable-bot, powerpeek, DialogEngine" width="880">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects-light.svg">
+  <img src="assets/projects-dark.svg" alt="Featured projects: PodBoxBot, Timetable-bot, powerpeek, DialogEngine" width="880">
+</picture>
 
 <sub>
 <a href="https://github.com/k0te1ch/PodBoxBot">PodBoxBot</a> ·
@@ -41,11 +47,32 @@ $ cat about.txt
 
 <br><br>
 
-<img src="assets/languages.svg" alt="Languages across public repositories" width="880">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
+  <img src="assets/languages-dark.svg" alt="Languages across public repositories" width="880">
+</picture>
 
 </div>
 
-## 04 · Engineering focus
+## 04 · Now
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/now-light.svg">
+  <img src="assets/now-dark.svg" alt="Recently pushed repositories and latest release" width="880">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
+  <img src="assets/activity-dark.svg" alt="Contributions over the last year" width="880">
+</picture>
+
+</div>
+
+## 05 · Engineering focus
 
 ```text
 → backend architecture & APIs

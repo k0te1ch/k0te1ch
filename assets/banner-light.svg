@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="320" viewBox="0 0 880 320" role="img" aria-label="k0te1ch: Backend Engineer and System Designer">
+<defs>
+<radialGradient id="glow" cx="85%" cy="0%" r="70%"><stop offset="0" stop-color="#4f46e5" stop-opacity="0.18"/><stop offset="1" stop-color="#4f46e5" stop-opacity="0"/></radialGradient>
+<linearGradient id="title" x1="0" x2="1"><stop offset="0" stop-color="#14142b"/><stop offset="1" stop-color="#4f46e5"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#4f46e5" stroke-opacity="0.08"/></pattern>
+<clipPath id="card"><rect width="880" height="320" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#card)"><rect width="880" height="320" fill="#f6f6fb"/><rect width="880" height="320" fill="url(#grid)"/><rect width="880" height="320" fill="url(#glow)"/><rect width="880" height="40" fill="#ececf6"/><line x1="0" y1="40" x2="880" y2="40" stroke="#d4d4e6"/></g>
+<rect x="0.5" y="0.5" width="879" height="319" rx="12" fill="none" stroke="#d4d4e6"/>
+<circle cx="24" cy="20" r="6" fill="#c3c3d9"/><circle cx="44" cy="20" r="6" fill="#c3c3d9"/><circle cx="64" cy="20" r="6" fill="#4f46e5"/>
+<text x="88" y="25" fill="#6b6b85" font-family="JetBrains Mono, Consolas, monospace" font-size="12" font-weight="400">k0te1ch@github: ~</text>
+<g opacity="0"><animate attributeName="opacity" to="1" begin="0.3s" dur="0.3s" fill="freeze"/><text x="32" y="86" fill="#4f46e5" font-family="JetBrains Mono, Consolas, monospace" font-size="16" font-weight="400">$</text><text x="52" y="86" fill="#2a2a3c" font-family="JetBrains Mono, Consolas, monospace" font-size="16" font-weight="400">whoami</text></g>
+<g opacity="0"><animate attributeName="opacity" to="1" begin="0.9s" dur="0.3s" fill="freeze"/><text x="32" y="140" fill="url(#title)" font-family="JetBrains Mono, Consolas, monospace" font-size="38" font-weight="700">Backend Engineer</text><text x="32" y="184" fill="url(#title)" font-family="JetBrains Mono, Consolas, monospace" font-size="38" font-weight="700">&amp; System Designer</text></g>
+<g opacity="0"><animate attributeName="opacity" to="1" begin="1.6s" dur="0.3s" fill="freeze"/><text x="32" y="218" fill="#50506a" font-family="JetBrains Mono, Consolas, monospace" font-size="16" font-weight="400">Backend systems built for scalability and real-world impact.</text></g>
+<g opacity="0"><animate attributeName="opacity" to="1" begin="2.2s" dur="0.3s" fill="freeze"/><text x="32" y="268" fill="#4f46e5" font-family="JetBrains Mono, Consolas, monospace" font-size="16" font-weight="400">$</text><text x="52" y="268" fill="#2a2a3c" font-family="JetBrains Mono, Consolas, monospace" font-size="16" font-weight="400">echo $FOCUS</text><text x="32" y="294" fill="#6b6b85" font-family="JetBrains Mono, Consolas, monospace" font-size="16" font-weight="400">architecture · performance · monetization</text></g>
+</svg>
