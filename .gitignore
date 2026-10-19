@@ -1,0 +1,4 @@
+# AI assistant artifacts - do not commit
+.claude/
+.aislop/
+CLAUDE.md
