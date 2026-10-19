@@ -85,6 +85,7 @@ $ cat about.txt
 
 [![Telegram](https://img.shields.io/badge/Telegram-@k0te1ch-7c3aed?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k0te1ch)
 [![VK](https://img.shields.io/badge/VK-@k0te1ch-7c3aed?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/k0te1ch)
+[![Site](https://img.shields.io/badge/Site-k0te1ch.github.io-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white)](https://k0te1ch.github.io)
 
 <br>
 
