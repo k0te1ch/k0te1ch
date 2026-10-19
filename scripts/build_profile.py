@@ -24,19 +24,19 @@ LANG_COLORS = {
     "Python": "#3572A5", "Java": "#b07219", "C++": "#f34b7d", "Dart": "#00B4AB",
     "JavaScript": "#f1e05a",
 }
-ACCENT = "#6366F1"
+ACCENT = "#7c3aed"
 FONT = "JetBrains Mono, Consolas, monospace"
 OUT = Path(__file__).resolve().parent.parent / "assets"
 
 THEMES = {
-    "dark": dict(bg="#0d0d16", card="#11111b", bar="#181826", line="#2a2a44", dot="#3a3a55",
+    "dark": dict(bg="#0c0916", card="#110d1c", bar="#181226", line="#2c2147", dot="#3d2f5c",
                  text="#d4d4e0", muted="#8b8ba3", soft="#a8a8bd", head="#f4f4fb",
-                 head2="#a5b4fc", accent=ACCENT, grid_op="0.07", glow_op="0.35",
-                 cells=["#1a1a2b", "#2c2d6b", "#4547b8", "#6366F1", "#a5b4fc"]),
-    "light": dict(bg="#f6f6fb", card="#ffffff", bar="#ececf6", line="#d4d4e6", dot="#c3c3d9",
+                 head2="#c4b5fd", accent=ACCENT, grid_op="0.07", glow_op="0.35",
+                 cells=["#1e1730", "#3b1d6e", "#5b2bb5", "#7c3aed", "#c4b5fd"]),
+    "light": dict(bg="#f6f6fb", card="#ffffff", bar="#efeafa", line="#d4d4e6", dot="#c3c3d9",
                   text="#2a2a3c", muted="#6b6b85", soft="#50506a", head="#14142b",
-                  head2="#4f46e5", accent="#4f46e5", grid_op="0.08", glow_op="0.18",
-                  cells=["#ececf6", "#c7c9f7", "#9a9df0", "#6366F1", "#3730a3"]),
+                  head2="#6d28d9", accent="#6d28d9", grid_op="0.08", glow_op="0.18",
+                  cells=["#efeafa", "#ddd0fb", "#b497f5", "#7c3aed", "#4c1d95"]),
 }
 
 QUERY = """

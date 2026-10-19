@@ -21,11 +21,11 @@ $ cat about.txt
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0b0b12?style=for-the-badge&logo=python&logoColor=6366F1)
-![C++](https://img.shields.io/badge/C++-0b0b12?style=for-the-badge&logo=c%2B%2B&logoColor=6366F1)
-![Java](https://img.shields.io/badge/Java-0b0b12?style=for-the-badge&logo=openjdk&logoColor=6366F1)
-![Flutter](https://img.shields.io/badge/Flutter-0b0b12?style=for-the-badge&logo=flutter&logoColor=6366F1)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-0b0b12?style=for-the-badge&logo=telegram&logoColor=6366F1)
+![Python](https://img.shields.io/badge/Python-0a0712?style=for-the-badge&logo=python&logoColor=7c3aed)
+![C++](https://img.shields.io/badge/C++-0a0712?style=for-the-badge&logo=c%2B%2B&logoColor=7c3aed)
+![Java](https://img.shields.io/badge/Java-0a0712?style=for-the-badge&logo=openjdk&logoColor=7c3aed)
+![Flutter](https://img.shields.io/badge/Flutter-0a0712?style=for-the-badge&logo=flutter&logoColor=7c3aed)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-0a0712?style=for-the-badge&logo=telegram&logoColor=7c3aed)
 
 </div>
 
@@ -83,8 +83,8 @@ $ cat about.txt
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@k0te1ch-6366F1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k0te1ch)
-[![VK](https://img.shields.io/badge/VK-@k0te1ch-6366F1?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/k0te1ch)
+[![Telegram](https://img.shields.io/badge/Telegram-@k0te1ch-7c3aed?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k0te1ch)
+[![VK](https://img.shields.io/badge/VK-@k0te1ch-7c3aed?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/k0te1ch)
 
 <br>
 
