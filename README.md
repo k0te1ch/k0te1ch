@@ -35,13 +35,14 @@ $ cat about.txt
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/projects-light.svg">
-  <img src="assets/projects-dark.svg" alt="Featured projects: PodBoxBot, powerpeek, DialogEngine" width="880">
+  <img src="assets/projects-dark.svg" alt="Featured projects: PodBoxBot, powerpeek, DialogEngine, python-template" width="880">
 </picture>
 
 <sub>
 <a href="https://github.com/k0te1ch/PodBoxBot">PodBoxBot</a> ·
 <a href="https://github.com/k0te1ch/powerpeek">powerpeek</a> ·
-<a href="https://github.com/k0te1ch/DialogEngine">DialogEngine</a>
+<a href="https://github.com/k0te1ch/DialogEngine">DialogEngine</a> ·
+<a href="https://github.com/k0te1ch/python-template">python-template</a>
 </sub>
 
 <br><br>
