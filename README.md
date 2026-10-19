@@ -35,12 +35,11 @@ $ cat about.txt
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/projects-light.svg">
-  <img src="assets/projects-dark.svg" alt="Featured projects: PodBoxBot, Timetable-bot, powerpeek, DialogEngine" width="880">
+  <img src="assets/projects-dark.svg" alt="Featured projects: PodBoxBot, powerpeek, DialogEngine" width="880">
 </picture>
 
 <sub>
 <a href="https://github.com/k0te1ch/PodBoxBot">PodBoxBot</a> ·
-<a href="https://github.com/k0te1ch/Timetable-bot">Timetable-bot</a> ·
 <a href="https://github.com/k0te1ch/powerpeek">powerpeek</a> ·
 <a href="https://github.com/k0te1ch/DialogEngine">DialogEngine</a>
 </sub>

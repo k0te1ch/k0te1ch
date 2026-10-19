@@ -13,10 +13,9 @@ from html import escape
 from pathlib import Path
 
 LOGIN = "k0te1ch"
-FEATURED = ["PodBoxBot", "Timetable-bot", "powerpeek", "DialogEngine"]
+FEATURED = ["PodBoxBot", "powerpeek", "DialogEngine"]
 FALLBACK_DESC = {
     "PodBoxBot": "Telegram bot that automates podcast episode publishing. Kafka microservices.",
-    "Timetable-bot": "Class schedule and notifications for Voronezh State University.",
     "powerpeek": "Device battery in the Windows tray. One 4 MB exe, no installer, no telemetry.",
     "DialogEngine": "Lightweight dialog engine for form-driven Telegram bots.",
 }
@@ -144,7 +143,8 @@ def projects(t, repos):
             f'<circle cx="28" cy="128" r="5" fill="{LANG_COLORS.get(lang, t["muted"])}"/>'
             f'{text(42, 132, lang, t["head2"], 12, 600)}'
             f'{text(42 + 10 * len(lang) + 14, 132, meta, t["muted"], 12)}</g>')
-    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="880" height="330" viewBox="0 0 880 330" role="img" aria-label="Featured projects">'
+    height = 155 + 175 * ((len(cards) - 1) // 2)
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="880" height="{height}" viewBox="0 0 880 {height}" role="img" aria-label="Featured projects">'
             f'<defs><linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="{t["accent"]}"/>'
             f'<stop offset="1" stop-color="{t["accent"]}" stop-opacity="0"/></linearGradient></defs>'
             + "".join(cards) + "</svg>\n")
