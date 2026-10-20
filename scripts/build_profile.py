@@ -13,7 +13,7 @@ from html import escape
 from pathlib import Path
 
 LOGIN = "k0te1ch"
-FEATURED = ["PodBoxBot", "powerpeek", "DialogEngine"]
+FEATURED = ["PodBoxBot", "powerpeek", "DialogEngine", "python-template"]
 FALLBACK_DESC = {
     "PodBoxBot": "Telegram bot that automates podcast episode publishing. Kafka microservices.",
     "powerpeek": "Device battery in the Windows tray. One 4 MB exe, no installer, no telemetry.",
