@@ -70,6 +70,13 @@ $ cat about.txt
   <img src="assets/activity-dark.svg" alt="Contributions over the last year" width="880">
 </picture>
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k0te1ch/k0te1ch/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/k0te1ch/k0te1ch/output/snake-dark.svg" alt="Contribution snake" width="880">
+</picture>
+
 </div>
 
 ## 05 · Engineering focus
@@ -85,7 +92,9 @@ $ cat about.txt
 
 [![Telegram](https://img.shields.io/badge/Telegram-@k0te1ch-7c3aed?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k0te1ch)
 [![VK](https://img.shields.io/badge/VK-@k0te1ch-7c3aed?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/k0te1ch)
-[![Site](https://img.shields.io/badge/Site-k0te1ch.github.io-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white)](https://k0te1ch.github.io)
+[![Site](https://img.shields.io/badge/Site-k0te1ch.ru-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://k0te1ch.ru)
+
+![Profile views](https://komarev.com/ghpvc/?username=k0te1ch&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br>
 
